@@ -55,9 +55,3 @@ To be able to pass, the program must run and provide a correct output for a secr
 **Final grade 30 cum laude.**
 
 A set of public tests and expected outputs are also provided to test the program's functionality and efficiency.
-
-## Running the program
-
-Once compiled, run `pastryshop.c < input.txt > output.txt`
-
-To verify the result is correct run `diff output.txt expected_output.txt`
