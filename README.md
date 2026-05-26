@@ -1,10 +1,10 @@
 
-# Algorithms and Data Structures Project 2023-2024 (PoliMI) by Curtis Das
+# Algorithms and Data Structures Project 2023-2024 (PoliMI)
 
 ## Project Overview
 This constitutes the first of the three final projects for the Bachelor's in Engineering of Computing Systems at Politecnico di Milano.
 
-The project is managed by **Prof. Alessandro Barenghi**.
+The project is managed by **Prof. Matteo Pradella**.
 
 The goal is to implement the software for managing a pastry shop (order management, stock management, recipe management, ...) using C, while optimizing time and memory efficciency.
 
